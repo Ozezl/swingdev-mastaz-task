@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+npm-debug.log*
+
+1-front-end-app/node_modules
+2-logic-tests/node_modules
